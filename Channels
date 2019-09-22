@@ -1,9 +1,5 @@
 {
 text:'Welcome To Black TV V1.01',
-version:'1.2',
-downloadLinkbein:'',
-Messagebein:'No',
-changeLogbein:'Nothing',
 channel1:'2M Maroc',
 link1:'http://212.8.243.218:25461/williamm/williamm/7366',
 channel2:'Arriadia',
@@ -104,5 +100,5 @@ channel49:'',
 link49:'',
 channel50:'',
 link50:'',
-isClosebein:'false'
+
 }
