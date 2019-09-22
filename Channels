@@ -104,5 +104,5 @@ version:'1.2',
 downloadLinkbein:'',
 Messagebein:'No',
 changeLogbein:'Nothing',
-isClosebein:'false'
+isClosebein:'true'
 }
